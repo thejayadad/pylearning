@@ -1,7 +1,3 @@
-#function is reusable code
+#function is reusable code that will execute once called
 
 
-
-name = input("what is ur name? ")
-
-print(name)
