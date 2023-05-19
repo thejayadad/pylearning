@@ -11,3 +11,6 @@
 
 
 # print(area_calc(7,13))
+
+print("25")
+
