@@ -1,1 +1,1 @@
-)
+print("The name", input_name, "is not in the list")
